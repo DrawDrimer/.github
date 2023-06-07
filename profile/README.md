@@ -1,12 +1,7 @@
-# DrawDrimer© , Oh Hi!
+# DrawDrimer
 
-## Welcome to DrawDrimer Github organization!
-
-⚠️Not all source code for DrawDrimer products
- is available 
-
-ℹ️To help us continue developing, make a donation on our website
-
-💻 https://drawdrimer.github.io/donate.html
-
-📧Contact Us! drawdrimer0193@protonmail.com
+## This is DrawDrimer
+DrawDrimer is a small company mostly mantained by two people, we try our best to make quality application
+DrawDrimer is a non-profit organization, we need help too! Soon™ we may have a donation page [here](https://drawdrimer.github.io/donate.html) 
+If you ever need to contact us, use the email below, maybe we'll create a Discord server, who knows.
+drawdrimer0193@protonmail.com
